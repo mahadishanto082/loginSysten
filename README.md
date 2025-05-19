@@ -50,16 +50,11 @@ cd laravel-vue-login-system
 
 Install PHP dependencies
 
-bash
-Copy
-Edit
+
 composer install
 
 Install Node dependencies & build frontend
 
-bash
-Copy
-Edit
 npm install
 npm run dev // alternate - .\node_modules\.bin\vite
 
